@@ -1,6 +1,6 @@
 <?php
 
-include_once '../BLL/user_info.php';
+include_once '../BLL/bus.php';
 
 //i declared object from the user_info class to be used later.
 $user_info = new user_info();
